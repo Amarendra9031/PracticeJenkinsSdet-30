@@ -7,7 +7,7 @@ public class ReadDataTest
 	@Test
 	public void readDataTest()
 	{
-		String BROWSER = System.getProperty("browser");
+		String BROWSER = System.getProperty("browser1");
 		System.out.println(BROWSER);
 
 		String URL = System.getProperty("url");
