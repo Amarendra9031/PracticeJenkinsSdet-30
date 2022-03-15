@@ -12,7 +12,7 @@ public class CreateOrgTest
 	@Test
 	public void createOrgTest1()
 	{
-		System.out.println("Welcome to Tys");
+		System.out.println("Welcome to TY");
 
 	}
 }

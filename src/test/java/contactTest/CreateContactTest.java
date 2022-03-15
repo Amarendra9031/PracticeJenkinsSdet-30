@@ -14,6 +14,6 @@ public class CreateContactTest
 	public void createContactTest1()
 	{
 
-		System.out.println("This is create contact1");
+		System.out.println("This is create contact2");
 	}
 }
