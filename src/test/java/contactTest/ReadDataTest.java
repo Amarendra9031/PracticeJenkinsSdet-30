@@ -10,8 +10,8 @@ public class ReadDataTest
 		String BROWSER = System.getProperty("browser1");
 		System.out.println(BROWSER);
 
-		String URL = System.getProperty("url");
-		System.out.println(URL);
+		//String URL = System.getProperty("url");
+		//System.out.println(URL);
 
 	}
 }
