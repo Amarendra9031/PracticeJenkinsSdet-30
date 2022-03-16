@@ -7,6 +7,8 @@ public class PracticeJenkinsTest
 	@Test
 	public void practiceJenkinsTest() 
 	{
-		System.out.println("Welcome to tys");
+		System.out.println("Welcome to Tys");
+		
+		System.out.println("Welcome to Bengaluru");
 	}
 }
